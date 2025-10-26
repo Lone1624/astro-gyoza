@@ -1,9 +1,9 @@
 {
   "site": {
     "url": "https://www.mtvfree.xyz",
-    "title": "Gyoza",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "title": "菘蓝",
+    "description": "这是一个博客。",
+    "keywords": "博客",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
@@ -14,26 +14,26 @@
     "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
+    "name": "SongLan",
+    "bio": "A blog.",
     "description": "Clean, Cute, Fast.",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/Lone1624",
         "color": "rgb(24, 23, 23)"
       },
       {
         "name": "X",
         "icon": "icon-x",
-        "url": "https://twitter.com/lxchapu",
+        "url": "https//www.mtvfree.xyz",
         "color": "rgb(36, 46, 54)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "cy1472580430@163.com",
         "color": "rgb(212, 70, 56)"
       }
     ],
@@ -95,10 +95,10 @@
     "perPage": 10
   },
   "footer": {
-    "startTime": "2024-04-14T00:00:00Z"
+    "startTime": "2025-10-26T00:00:00Z"
   },
   "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+    "serverURL": "https://www.mtvfree.xyz/"
   },
   "sponsor": {
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
