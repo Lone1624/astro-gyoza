@@ -14,27 +14,15 @@
     "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
   },
   "hero": {
-    "name": "SongLan",
-    "bio": "A blog.",
-    "description": "Clean, Cute, Fast.",
+    "name": "菘蓝",
+    "bio": "一个博客.",
+    "description": "专业（bushi）",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
         "url": "https://github.com/Lone1624",
         "color": "rgb(24, 23, 23)"
-      },
-      {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "https//www.mtvfree.xyz",
-        "color": "rgb(36, 46, 54)"
-      },
-      {
-        "name": "Email",
-        "icon": "icon-mail",
-        "url": "cy1472580430@163.com",
-        "color": "rgb(212, 70, 56)"
       }
     ],
     "yiyan": "当第一颗卫星飞向大气层外，我们便以为自己终有一日会征服宇宙。"
