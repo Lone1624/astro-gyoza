@@ -5,7 +5,7 @@ export default function Yiyan({ defaultText }: { defaultText: string }) {
 
   useEffect(() => {
     // 每次页面加载都会执行这个 useEffect
-    fetch("https://v1.hitokoto.cn?encode=json&c=a")
+    fetch("https://v1.hitokoto.cn?encode=json&c=i")
       .then((res) => res.json())
       .then((data) => {
         const hitokoto = data.hitokoto || "加载失败";
