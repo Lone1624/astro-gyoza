@@ -1,7 +1,7 @@
 ---
 title: Markdown语法使用教程
 date: 2025-10-27T07:00:00Z
-lastMod: 2025-10-27T07:00:00Z
+lastMod: 2025-10-27T07:14:00Z
 summary: 这是一篇 Markdown 语法的教程。展示了 Markdown 的语法和渲染效果。
 category: 学习
 tags: [Markdown]
@@ -88,4 +88,4 @@ ___
 
 # 结语
 
-如果你学会以上的内容，那么你恭喜你已经能够初步书写Markdown格式的文本，此外还有高级格式如列表、数学函数和化学公式、图片、代码块、格式化链接、转义字符等等。如果对此感兴趣，可以前往[官方教程](https://markdown.com.cn/intro.html)查看完整教程。
+如果你学会以上的内容，那么恭喜你已经能够初步书写Markdown格式的文本，此外还有高级格式如列表、数学函数和化学公式、图片、代码块、格式化链接、转义字符等等。如果对此感兴趣，可以前往[官方教程](https://markdown.com.cn/intro.html)查看完整教程。
