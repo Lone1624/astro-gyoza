@@ -5,7 +5,7 @@ lastMod: 2025-10-27T02:07:49.820Z
 tags: [Log]
 category: 日志
 summary: 这篇文章是第一篇博客，包含更新日志。
-sticky:1
+sticky: 1
 ---
 
 # 缘起
