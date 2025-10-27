@@ -4,7 +4,7 @@ date: 2025-10-26T05:04:00Z
 lastMod: 2025-10-27T05:04:00Z
 tags: [诗歌]
 category: 文学
-summary: 贺新博客。
+summary: 一首诗。
 ---
 
 > 该篇文章作者为**黄剑尺**
