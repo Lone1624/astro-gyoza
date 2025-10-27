@@ -6,7 +6,7 @@ comments: false
 
 ## 关于我
 
-我是菘蓝，是一名苦逼的大学生，喜欢各种有趣的东西。欢迎访问我的个人网站 [www.mtvfree.xyz](https://www.mtvfree.xyz/)，了解关于我更多的信息。
+我是菘蓝，是一名苦逼的大学生，喜欢各种有趣的东西。欢迎访问我的网站 [www.mtvfree.xyz](https://www.mtvfree.xyz/)，了解关于我更多的信息。
 
 ## 致谢
 
