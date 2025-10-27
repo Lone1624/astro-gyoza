@@ -2,9 +2,9 @@
 title: 一切从这里开始
 date: 2025-10-26T15:53:49.820Z
 lastMod: 2025-10-27T02:07:49.820Z
-tags: [Log]
-category: 日志
-summary: 这篇文章是第一篇博客，包含更新日志。
+tags: [日志]
+category: 开发调优
+summary: 这是第一篇文章，包含更新日志。
 sticky: 1
 ---
 
