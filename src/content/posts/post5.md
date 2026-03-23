@@ -27,7 +27,7 @@ tags: [路由器, 家庭网络, 光猫]
 先来看看网络是如何进入你的家的，这部分可称之为**外网**：
 
 <figure style="text-align: center;">
-  <img src="https://youke1.picui.cn/s1/2025/10/27/68ff6d0755718.jpg" alt="图片描述" style="display: block; margin: 0 auto;">
+  <img src="https://free.picui.cn/free/2026/03/23/69c0bd5fb94ed.png" alt="图片描述" style="display: block; margin: 0 auto;">
   <figcaption style="font-style: italic; color: #666;">图1：公网结构简图</figcaption>
 </figure>
 
