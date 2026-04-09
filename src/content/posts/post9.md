@@ -2,8 +2,8 @@
 title: SBTI 人格类型全解
 date: 2026-04-09T12:41:00Z
 summary: 一个最近出圈的“人格测试”解析。
-category: 心理学, 网站分享
-tags: [心理学, 人格, 吹水]
+category: 心理学
+tags: [心理学, 人格, 吹水, 网站分享]
 ---
 
 
